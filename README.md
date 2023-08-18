@@ -1,2 +1,2 @@
 # demo-repo
-Created demo repository 
+Created demo repository for practice.
